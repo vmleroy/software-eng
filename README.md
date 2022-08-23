@@ -1,4 +1,4 @@
-# software-eng
+# software-engineer
 Software engineer class - CEFETMG
 
 Dev team:
