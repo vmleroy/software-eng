@@ -1,2 +1,2 @@
 # software-eng
-Software engineering class - CEFETMG
+Software engineer class - CEFETMG
